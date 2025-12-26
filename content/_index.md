@@ -9,15 +9,13 @@ design:
   spacing: '6rem'
 
 sections:
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
       headings:
         about: ''
         education: ''
@@ -33,32 +31,25 @@ sections:
         size: md # Options: xs, sm, md, lg (default), xl
 
       # Avatar customization
-      avatar:
+      avatar: 
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'More about me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I've had a varied career journey up till now, including working as a clinician in inpatient and outpatient settings and working on policy projects for disaster mental health in India. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm currently fully focused on research, looking at how childhood trauma can affect our social relationships and mental health. I'm trying to take an interdisciplinary approach to my PhD, primarily combining methods from epidemiology and experimental research paradigms to look at different levels of analysis of my topic (cognitive, behavioural, self-report). 
+        
+        I'm also a strong advocate for open science and interested in advancing research skills training in settings where there may be lower access to this. 
 
-        Please reach out to collaborate 😃
+        Please reach out if you would like to collaborate, discuss something or have questions!
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -69,19 +60,11 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Recent Blog Posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
