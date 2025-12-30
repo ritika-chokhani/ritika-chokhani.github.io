@@ -8,9 +8,9 @@ main:
     url: projects/
     weight: 10
   - name: Papers
-    url: /#papers
+    url: /#publication
     weight: 11
-  - name: Talks
+  - name: Blog
     url: blog/
     weight: 12
 

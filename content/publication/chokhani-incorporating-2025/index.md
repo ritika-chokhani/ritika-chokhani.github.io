@@ -30,6 +30,12 @@ abstract: Purpose This study aimed to understand whether incorporating wellbeing
   future functional states, however such a model needs further replication with comprehensive
   measures and comparison with alternative models to verify its validity and utility.
 links:
-- name: URL
+- type: pdf
   url: https://dx.plos.org/10.1371/journal.pone.0335657
+- type: code
+  url: https://osf.io/2egv9/overview
+- type: dataset
+  url: https://datacatalogue.ukdataservice.ac.uk/studies/study/9150#details
+- type: poster
+  url: https://github.com/ritika-chokhani/general-factor_wellbeing
 ---

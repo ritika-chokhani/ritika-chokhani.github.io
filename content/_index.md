@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Home'
 date: 2022-10-24
 type: landing
 
@@ -40,7 +40,7 @@ sections:
       title: 'More about me'
       subtitle: ''
       text: |-
-        I've had a varied career journey up till now, including working as a clinician in inpatient and outpatient settings and working on policy projects for disaster mental health in India. 
+        I've had a varied career journey up till now, including working as a clinical psychologist in inpatient and outpatient settings and working on policy projects for disaster mental health in India. 
 
         I'm currently fully focused on research, looking at how childhood trauma can affect our social relationships and mental health. I'm trying to take an interdisciplinary approach to my PhD, primarily combining methods from epidemiology and experimental research paradigms to look at different levels of analysis of my topic (cognitive, behavioural, self-report). 
         
@@ -51,12 +51,13 @@ sections:
       columns: '1'
 
   - block: collection
+    id: publication 
     content:
       title: Recent Publications
       text: ''
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
     design:
       view: citation
@@ -90,6 +91,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

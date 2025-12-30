@@ -29,6 +29,13 @@ abstract: 'Purpose: This study aimed to understand how college-going young men a
   need for early identification and have implications for developing dating violence
   interventions in colleges and for future research in similar contexts.'
 links:
-- name: URL
-  url: https://link.springer.com/10.1007/s10896-024-00699-8
+- type: pdf
+  url: https://www.researchgate.net/publication/381408116_'Nowadays_Girls_Have_Exceeded_Their_Limits'_A_Qualitative_Analysis_of_Dating_Violence_in_Young_Adults_from_Bengaluru_India
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: [past/dating-violence]
 ---
