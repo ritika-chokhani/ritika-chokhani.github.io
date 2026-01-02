@@ -15,7 +15,8 @@ sections:
       text: Here are some of the projects I'm working on currently. 
       filters:
         folders:
-          - projects/current
+         - projects
+        tag: current
     design:
       view: article-grid
       fill_image: false
@@ -30,11 +31,12 @@ sections:
       text: Here are some of the projects I've worked on in the past. 
       filters:
         folders:
-          - projects/past
+         - projects
+        tag: past
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 1
       show_date: false
       show_read_time: false
       show_read_more: false

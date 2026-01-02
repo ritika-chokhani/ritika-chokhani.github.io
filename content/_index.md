@@ -40,13 +40,14 @@ sections:
       title: 'More about me'
       subtitle: ''
       text: |-
-        I've had a varied career journey up till now, including working as a clinical psychologist in inpatient and outpatient settings and working on policy projects for disaster mental health in India. 
+        I've had a varied career journey up, including working as a clinical psychologist in inpatient and outpatient settings and working on policy projects for disaster mental health in India. 
 
-        I'm currently fully focused on research, looking at how childhood trauma can affect our social relationships and mental health. I'm trying to take an interdisciplinary approach to my PhD, primarily combining methods from epidemiology and experimental research paradigms to look at different levels of analysis of my topic (cognitive, behavioural, self-report). 
+        I'm currently fully focused on research, looking at how childhood trauma can affect our social relationships and mental health. I'm trying to take an interdisciplinary approach to my PhD, primarily combining methods from epidemiology and experimental research paradigms to look at my topic from different angles. 
         
-        I'm also a strong advocate for open science and interested in advancing research skills training in settings where there may be lower access to this. 
+        I'm also a strong advocate for open science and interested in advancing research skills training in settings where there may be lower access to this. I love writing and have also dabbled in writing fiction. 
 
-        Please reach out if you would like to collaborate, discuss something or have questions!
+        Please reach out if you would like to collaborate, discuss something or have any questions that I can help with!
+
     design:
       columns: '1'
 
