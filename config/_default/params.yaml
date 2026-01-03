@@ -22,7 +22,7 @@ hugoblox:
     radius: md
     spacing: comfortable
     avatar_shape: circle
-  
+
   header:
     enable: true
     style: navbar
