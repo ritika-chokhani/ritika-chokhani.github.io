@@ -15,7 +15,7 @@ image:
 
 Note: Some of the text below is repurposed from the paper.
 
-India has traditionally favoured marriages arranged by family. However, in recent decades, pre-marital romantic relationships or "dating relationships" are growing more common in India. However, the socio-cultural context is still discouraging of premarital relationships, especially for women.
+India has traditionally favoured marriages arranged by family. However, in recent decades, pre-marital romantic relationships or "dating relationships" are growing more common in India. But the socio-cultural context is still discouraging of premarital relationships, especially for women.
 
 In this background, dating violence is quite an under-researched topic in India. This project was part of my MPhil and involved a qualitative study with young adults in Bengaluru, India where I asked them about their experiences of violence in their dating relationships and its implications.
 
