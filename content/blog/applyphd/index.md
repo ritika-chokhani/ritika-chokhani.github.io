@@ -36,7 +36,7 @@ content_meta:
   trending: true
 ---
 
-Acknowledgement: Thank you to Niranjanraj Ramasundaram for providing comments and editing an earlier version of this blog.
+Acknowledgement: Thank you to Niranjanraj Ramasundaram for providing comments on and editing an earlier version of this blog.
 
 {{< toc mobile_only=true is_open=true >}}
 

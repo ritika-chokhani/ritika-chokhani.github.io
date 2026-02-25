@@ -14,4 +14,6 @@ image:
 
 Below, I describe Part 2 of the second study of my PhD. 
 
+To be updated.
+
 <!--more-->
