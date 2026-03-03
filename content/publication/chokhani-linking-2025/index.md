@@ -8,16 +8,16 @@ authors:
 - Essi Viding
 - Mattia I. Gerin
 - Eamon McCrory
-date: '2025-01-01'
+date: '2026-02-25'
 publishDate: '2026-01-02T16:25:28.161503Z'
 publication_types:
 - article
-publication: '*PsyArXiv*'
-doi: https://doi.org/10.31234/osf.io/8yfnq_v1
+publication: 'Clinical Psychology Review'
+doi: https://doi.org/10.1016/j.cpr.2026.102722
 
 links:
   - type: pdf
-    url: /uploads/chokhani_adversity_2025.pdf
+    url: /uploads/chokhani_review_2026.pdf
   - type: code
     url: https://osf.io/dwujc/overview
   - type: dataset
