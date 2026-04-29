@@ -15,8 +15,6 @@ image:
   caption: "Image credit: [HugoBlox](https://hugoblox.com)"
   focal_point: Center
   placement: 1
-content_meta:
-  trending: true
 ---
 
 
