@@ -21,6 +21,8 @@ content_meta:
 
 {{< toc mobile_only=true is_open=true >}}
 
+## The bottleneck
+
 India is home to almost 1.5 billion people – nearly a fifth of the world’s population and more than that of Europe and North America combined [^1]. An estimated 197 million people in the country live with mental illness, and this number is growing [^2]. India also houses a substantial mental health research workforce, with a demonstrated record of leading research output across low- and middle-income countries [^3]. We estimate that between 2,000-4,000 articles on mental health originate in India annually [^4], and upwards of 30,000 dissertations are generated every year in psychology alone[^5]. Yet, despite this volume, India lacks answers to fundamental questions about its population’s mental health: How is the treatment gap for common mental health disorders changing? What social and environmental factors are the strongest contributors to poor mental health? What impact do various policy initiatives have?
 
 We propose that one significant reason is a systemic bottleneck: the overreliance of Indian mental health research on primary data collection, and the corresponding neglect of secondary data. The result is a research ecosystem dominated by large-scale clinical trials, small-sample interventional studies, and cross-sectional surveys built on convenience samples that overrepresent urban populations [^6]. Of the 47 early-career researchers (ECRs) we surveyed in a rapid poll, only 3 reported the use of any secondary data in their dissertations [^7].  
