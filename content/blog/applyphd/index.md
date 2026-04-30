@@ -6,8 +6,7 @@ date: 2026-01-03
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: Photo by <a href="https://unsplash.com/@freestockpro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alexandr Podvalny</a> on <a href="https://unsplash.com/photos/a-globe-pencils-and-a-cup-of-pencils-on-a-table-FvBVVf0ctnk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      '
+  caption: 'Photo by <a href="https://unsplash.com/@eddyboom?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eddy Boom</a> on <a href="https://unsplash.com/photos/assorted-title-book-collection-on-shelf-Mq6f4gfijfc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
 
 cover:
   image: "featured.jpg"

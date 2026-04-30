@@ -8,20 +8,19 @@ name:
   pronouns: "she/her"
 status:
   icon: "🎓"
-role: "PhD scholar | Tata Institute of Social Sciences, Mumbai"
+role: "PhD Scholar | Tata Institute of Social Sciences, Mumbai"
 bio: "I am a PhD Scholar in Applied Psychology, examining narratives of growing up with Type 1 Diabetes. My broader research interests lie at the intersection of health and clinical psychology, with a focus on how psychosocial perspectives can better inform public health questions and clinical care.\n"
 links:
   - icon: "at-symbol"
     url: "mailto:kanak.kats@gmail.com"
     label: "E-mail Me"
-  - icon: "brands/bluesky"
-    url: "https://bsky.app/profile/ritikac.bsky.social"
+  - icon: "brands/twitter"
+    url: "https://x.com/kanak_kataria"
   - icon: "brands/linkedin"
-    url: "https://www.linkedin.com/in/ritika-chokhani/"
+    url: "https://in.linkedin.com/in/kanakkataria"
   - icon: "academicons/google-scholar"
-    url: "https://scholar.google.com/citations?user=xmKdCBYAAAAJ&hl=en"
-  - icon: "brands/github"
-    url: "https://github.com/ritika-chokhani"
+    url: "https://scholar.google.com/citations?user=sOH4ODUAAAAJ&hl=en&oi=ao"
+
 
 
 

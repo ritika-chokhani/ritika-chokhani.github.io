@@ -1,16 +1,30 @@
 ---
 title: 'If you don’t collect data, it’s not really research: how the primacy of “primary data” is hampering mental health science in India'
-summary: An essay
+summary: An essay 
 date: 2026-04-29
 authors: 
   - me
   - kanak
-cover:
-  # image: cover.jpg  # Auto-detected from cover image in this folder
-image:
-  caption: "Image credit: Photo by Aaron Burden on Unsplash"
-  focal_point: Center
-  placement: 1
+
+image: 
+  caption: 'Photo by <a href="https://unsplash.com/@subhashnusetti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Subhash Nusetti</a> on <a href="https://unsplash.com/photos/desk-globe-on-white-table-9tmrYLRL7Ww?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+      
+
+cover: 
+  image: "featured.jpg" 
+  position:
+    x: 50
+    y: 40
+  overlay:
+    enabled: true
+    type: "gradient"
+    opacity: 0.4
+    gradient: "bottom"
+  fade:
+    enabled: true
+    height: "80px"
+  icon:
+    name: "✨"
 
 tags:
   - better science 
@@ -20,11 +34,11 @@ tags:
 
 India is home to almost 1.5 billion people – nearly a fifth of the world’s population and more than that of Europe and North America combined [^1]. An estimated 197 million people in the country live with mental illness, and this number is growing [^2]. India also houses a substantial mental health research workforce, with a demonstrated record of leading research output across low- and middle-income countries [^3]. We estimate that between 2,000-4,000 articles on mental health originate in India annually [^4], and upwards of 30,000 dissertations are generated every year in psychology alone [^5]. Yet, despite this volume, India lacks answers to fundamental questions about its population’s mental health: How is the treatment gap for common mental health disorders changing? What social and environmental factors are the strongest contributors to poor mental health? What impact do various policy initiatives have?
 
-We propose that one significant reason is a systemic bottleneck: the overreliance of Indian mental health research on primary data collection, and the corresponding neglect of secondary data. The result is a research ecosystem dominated by large-scale clinical trials, small-sample interventional studies, and cross-sectional surveys built on convenience samples that overrepresent urban populations [^6]. Of the 47 early-career researchers (ECRs) we surveyed in a rapid poll, only 3 reported the use of any secondary data in their dissertations [^7].  
+We propose that one significant reason is a systemic bottleneck: the overreliance of Indian mental health research on primary data collection, and the corresponding neglect of secondary data. The result is a research ecosystem dominated by large-scale clinical trials, small-sample interventional studies, and cross-sectional surveys built on convenience samples that overrepresent urban populations [^6]. Of the 47 early-career researchers (ECRs) we surveyed in a rapid poll, only 3 reported the use of *any* secondary data in their dissertations [^7].  
 
 This is a particular problem because many questions India needs to answer involve variables like caste, gender, poverty, heatwaves and violence exposure that cannot be ethically or practically manipulated in randomized controlled trials. Answering them requires large, longitudinal datasets, of which India has few. The Atlas of Longitudinal Datasets (2024) [^8] identified only 51 health-related longitudinal datasets in India, compared to 1061 in Europe – a nearly 21x differential for a region with half of India’s population. Of those 51, mental health data were absent in nearly half, and most others had large barriers to data access.
 
-However, the availability of data is growing. In recent years, significant effort and funding have gone into generating large, longitudinal datasets and the publishing of government-owned shareable data in India [^opengov]. Yet, availability has not translated into uptake – even freely-available datasets, such as the Young Lives dataset and UDAYA dataset [^8] remain under-analysed. The National Mental Health Survey (NMHS) series [^9], which accesses a representative sample from all of India’s states and union territories, is one of India’s best resources, yet remains hard to use. Despite completing postgraduate training at the same institution it’s hosted at, we cannot recall anyone suggesting or discussing accessing its data as a possibility for our dissertations. One of us can recount distinct instances of proposals for secondary analysis of other data being shot down. Reasons for dismissal ranged from it being "too complex" or "unconventional for our field" to the concern that it would deprive students of the experience of collecting data themselves. This reflects a system where secondary analysis has not yet taken root as a research practice and we are left with datasets built at considerable public cost being chronically underused. 
+However, the availability of data is growing. In recent years, significant effort and funding have gone into generating large, longitudinal datasets and the publishing of government-owned shareable data in India [^opengov]. Yet, availability has not translated into uptake – even freely-available datasets, such as the Young Lives dataset and UDAYA dataset [^8] remain under-analysed. The National Mental Health Survey (NMHS) series [^9], which accesses a representative sample from all of India’s states and union territories, is one of India’s best resources. Yet, despite completing postgraduate training at the same institution it’s hosted at, we cannot recall anyone suggesting or discussing accessing its data as a possibility for our dissertations. One of us can recount distinct instances of proposals for secondary analysis of other data being shot down. Reasons for dismissal ranged from it being "too complex" or "unconventional for our field" to the concern that it would deprive students of the experience of collecting data themselves. This reflects a system where secondary analysis has not yet taken root as a research practice and we are left with datasets built at considerable public cost being chronically underused. 
 
 This orientation towards primary data is not only inefficient but also self-undermining: it generates redundancies and compounds burden on researchers and participants alike. Researchers report persistent struggles in recruiting participants [^10], while participants, especially those from vulnerable communities, report fatigue [^11]. In a recent lecture we gave, one student shared how a sanitation worker expressed frustration at being repeatedly approached for research in ways that yielded little tangible change [^12]. While there is no doubt about the need for high-quality primary data, especially from underrepresented communities, our concern is with repetitive, high-effort studies that result in little moving of the needle on evidence-informed mental health policy. Many of these studies are too small to be conclusive and there is less synthesis of existing evidence, leaving policy and intervention reliant on Western evidence [^13].
 
@@ -32,7 +46,7 @@ This orientation towards primary data is not only inefficient but also self-unde
 
 We argue that this bottleneck persists because of systemic disincentives operating at three interlocking levels: epistemic norms, training, and funding incentives. *Epistemically*, the norm that primary data = ‘real’ research is rarely formally documented but is enforced pervasively through curricula, departmental culture, and funding language. The skeptical reactions we described above to secondary analysis are not fringe reactions – they reflect a research ecosystem in which *doing research* and *collecting data* are deeply intertwined and almost equated. At the level of *training*, popular programmes that produce mental health researchers (e.g., psychology and psychiatry) introduce but rarely provide substantive preparation in epidemiology, biostatistics, and large-scale data management. Coupled with the lack of a culture of interdisciplinary collaboration, the capacity to use existing data, even when available, is severely constrained. At the level of *funding*, major domestic funding bodies (Indian Council for Medical Research (ICMR), Department of Biotechnology) have few dedicated calls for secondary analysis of mental health data. Funding agencies frequently emphasize ‘novelty’ and ‘innovation’, criteria that are often implicitly equated with the collection of new data. Notably, while agencies sometimes issue specific calls for secondary data analysis in health domains, mental health is not on this list. 
 
-![A figure with boxes and arrows showing a self-sustaining cycle of how epistemic norms, training and capacity issues and funding incentives create a systemic bottleneck: the primary of primary data](/images/inline.jpg)
+![A figure with boxes and arrows showing a self-sustaining cycle of how epistemic norms, training and capacity issues and funding incentives create a systemic bottleneck: the primary of primary data](/images/inline2.jpg)
 
 Figure 1 shows the cycle we believe this creates. The fragmented evidence base generated reinforces the need for more data collection. No individual actor or small group is positioned to escape this system, and the cycle continues across generations of researchers. 
 
@@ -50,7 +64,7 @@ We propose that two cohorts of students enrolled in a particular Master’s prog
 
 This is one proposed solution that would leverage the existing infrastructure at an institution and test whether integrating this training pathway as part of overall training for mental health researchers can be effective. However, another idea might be to set up this training pathway as a competitive fellowship welcoming individuals from all disciplines, which would then select individuals with high interest and motivation to use secondary data. There are also other possible interventions, which may be needed in combination with training pathways, like: 
 
-- Setting up local institution-level repositories for researchers to securely and safely share and access data. Institution-level solutions are likely to have more political will for use and more buy-in from ethics boards, faculty as well as research participants. They are also likely to be easier to govern as a local manager can be appointed to provide training and answer questions.
+- Setting up local institution-level repositories for researchers to securely and safely share and access data. Institution-level solutions are likely to have more buy-in from various stakeholders (e.g., ethics boards, faculty members) and may be more acceptable to research participants. They are also likely to be easier to govern as a local manager can be appointed to provide training and answer questions.
 
 - Indian funding agencies should put out calls specifically for secondary analysis of existing mental health data. One model may be a competition for researchers to answer a specified, urgent research question using existing data. 
 
