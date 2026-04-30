@@ -3,8 +3,8 @@ title: 'If you don’t collect data, it’s not really research: how the primacy
 summary: An essay 
 date: 2026-04-29
 authors: 
-  - me
-  - kanak
+- me
+- kanak
 
 image: 
   caption: 'Photo by <a href="https://unsplash.com/@subhashnusetti?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Subhash Nusetti</a> on <a href="https://unsplash.com/photos/desk-globe-on-white-table-9tmrYLRL7Ww?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
