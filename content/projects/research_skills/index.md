@@ -15,7 +15,7 @@ Here, I describe a workshop series designed by Praveetha Patalay (Professor, UCL
 
 Despite having talent, interest and unique contextual expertise, students and researchers based in low and middle income countries (LMICs) do not have the same access to training in knowledge, skills and attitudes to conduct mental health research that is globally competitive (Bloomfield et al., 2016; Razzouk et al., 2010). At the same time, the prevalence and burden of mental ill health is disproportionately concentrated in LMICs (Rathod et al., 2017). For example, in Bihar, a single state in India, there are more people living with schizophrenia than in the entirety of North America (Adams et al., 2018). 
 
-At the same time, recent movements in India have identified issues with replicability and credibility of research. The open science movement can offer useful perspectives here. Hence, we planned to conduct a program to motivate interest and teach skills in conducting research for interested participants titled 
+At the same time, recent movements in LMICs such as India, for example, have identified concerns around replicability and credibility of research (see [India Research Watch](https://irw.co.in)). The open science movement can offer useful perspectives here. Hence, we planned to conduct a program to motivate interest and teach skills in conducting research for interested participants titled 
 ‘Thinking Like a Scientist: Essential Skills in Conducting Research’, with a focus on introducing early-career researchers to open science practices and high standards of research. 
 
 The first workshop series had 4 sessions: 
