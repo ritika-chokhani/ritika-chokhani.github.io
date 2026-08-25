@@ -13,18 +13,21 @@ image:
 
 Here, I describe a workshop series designed by Praveetha Patalay (Professor, UCL) and me, which we piloted with a small group of participants in 2025. We are planning to use the feedback we received to improve our offer. 
 
-Despite having talent, interest and unique contextual expertise, students and researchers based in low and middle income countries (LMICs) do not have the same access to training in knowledge, skills and attitudes to conduct mental health research that is globally competitive (Bloomfield et al., 2016; Razzouk et al., 2010). At the same time, the prevalence and burden of mental ill health is disproportionately concentrated in LMICs (Rathod et al., 2017). For example, in Bihar, a single state in India, there are more people living with schizophrenia than in the entirety of North America (Adams et al., 2018). Hence, we planned to conduct a program to motivate interest and teach skills in conducting research for interested participants titled 
-‘Thinking Like a Scientist: Essential Skills in Conducting Research’.
+Despite having talent, interest and unique contextual expertise, students and researchers based in low and middle income countries (LMICs) do not have the same access to training in knowledge, skills and attitudes to conduct mental health research that is globally competitive (Bloomfield et al., 2016; Razzouk et al., 2010). At the same time, the prevalence and burden of mental ill health is disproportionately concentrated in LMICs (Rathod et al., 2017). For example, in Bihar, a single state in India, there are more people living with schizophrenia than in the entirety of North America (Adams et al., 2018). 
+
+At the same time, recent movements in India have identified issues with replicability and credibility of research. The open science movement can offer useful perspectives here. Hence, we planned to conduct a program to motivate interest and teach skills in conducting research for interested participants titled 
+‘Thinking Like a Scientist: Essential Skills in Conducting Research’, with a focus on introducing early-career researchers to open science practices and high standards of research. 
 
 The first workshop series had 4 sessions: 
 
-Session 1: The value of research (including thinking of good research questions)
+Session 1: The value of research (including thinking of good research questions) [Download slides](/uploads/session1.pdf)
 
-Session 2: Designing good research studies (measurement, population, analysis)
+Session 2: Designing good research studies (measurement, population, analysis) [Download slides](/uploads/session2.pdf)
 
-Session 3: Maintaining good research standards 
+Session 3: Maintaining good research standards [Download slides](/uploads/session3.pdf)
 
-Session 4: Navigating a career in research (including Q&A)
+Session 4: Navigating a career in research (including Q&A) [Download slides](/uploads/session4.pdf)
 
-N.B. The material will be posted here when it is cleaned up and updated.  
+Following this, we also assimilated the contents of Session 3 and 4 into a lecture on Doing Open Science: transparency, integrity and inclusivity in research [Download slides](/uploads/tiss_lecture.pdf)
+
 <!--more-->
